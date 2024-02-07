@@ -1,7 +1,4 @@
-h1 {
-    font-weight: bold;
-    text-align: center;
- }
+
  img {
     display: block;
     margin-left: auto;
@@ -18,7 +15,20 @@ h1 {
     background-color: blanchedalmond;
  }
 
- .flex-container{
- display: flex;
+ .name-background{
  background-image: url("pictures/vitatoppar2-version-2.jpg");
+ background-repeat: no-repeat;
+ background-size: 1500px 125px;
+ font-weight: bold;
+ text-align: center;
+ }
+
+ 
+nedan stående del han ejs med
+ #p-to-next {
+   font-size: 20px;
+   font-style: oblique;
+   color: rgb(86, 63, 4);
+   text-align: right;
+   
  }
